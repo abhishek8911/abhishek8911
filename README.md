@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @abhishek8911
-- 👀 I’m interested in bot development.
+- 👋 Hi, I’m Abhishek
+- 👀 I’m interested in fivem & bot development 
 - 🌱 I’m currently learning html...
-- 💞️ I’m looking to collaborate on discord bots ...
-- 📫 How to reach me ...
 
 <!---
 abhishek8911/abhishek8911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
